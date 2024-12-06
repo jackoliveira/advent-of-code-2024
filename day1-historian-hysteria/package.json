@@ -1,0 +1,10 @@
+{
+  "name": "day1-historian-hysteria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
